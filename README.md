@@ -8,7 +8,7 @@
 
 ## Project --2: Web Site
 ### --Description--
-Learn and apply page formatting using HTML and CSS
+Learn and apply page formatting using HTML and CSS,simple website view
 ## Project Skeleton 
 
 ```
